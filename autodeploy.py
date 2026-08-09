@@ -18,7 +18,7 @@ import builtins
 from pathlib import Path
 ssl._create_default_https_context = ssl._create_unverified_context
 
-BBRepo = "https://github.com/harryzawg/bubbablox-v2.git"
+BBRepo = "https://github.com/av7b/okapi.git"
 PostgresPath = r"C:\Program Files\PostgreSQL\13\bin"
 RBXRegPath = r"SOFTWARE\ROBLOX Corporation\Roblox"
 
